@@ -4,5 +4,5 @@ description: test
 
 # Initial page
 
-Blah-blah.
+Blah-blah
 
