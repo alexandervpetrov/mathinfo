@@ -1,2 +1,2 @@
-# mathinfo
-Materials of mathinfo.org.ua
+# Initial page
+
