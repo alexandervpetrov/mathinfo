@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Стартова](README.md)
+* [Головна](README.md)
 * [Книги](books/README.md)
   * [Альтернативні шкільні програми/ Проблеми в існуючих програмах](books/alternative.md)
   * [Задачники](books/problem-books.md)
