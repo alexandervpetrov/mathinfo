@@ -2,6 +2,7 @@
 
 * [Стартова](README.md)
 * [Книги](books/README.md)
+  * [Альтернативні шкільні програми/ Проблеми в існуючих програмах](books/alternative.md)
   * [Задачники](books/problem-books.md)
   * [Методична література для батьків школярів та педагогів](books/for-parents.md)
   * [Книги для підлітків](books/knigi-dlya-pidlitkiv.md)
