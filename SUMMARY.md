@@ -2,6 +2,7 @@
 
 * [Стартова](README.md)
 * [Книги](books/README.md)
+  * [Задачники](books/problem-books.md)
   * [Методична література для батьків школярів та педагогів](books/for-parents.md)
   * [Книги для підлітків](books/knigi-dlya-pidlitkiv.md)
   * [Література для дітей молодшего та середнього шкільного віку](books/for-elementary-and-secondary-schools.md)
