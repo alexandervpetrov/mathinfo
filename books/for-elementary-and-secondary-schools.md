@@ -2,13 +2,7 @@
 
 Майк Барфилд. [Позбався цієї книги заради математики](https://bookclub.ua/catalog/books/learning/pozbavsya-ciieyi-knigi-zaradi-matematiki) 
 
-Л. Бертола. [Скажена математика: школа чародіїв](https://bookclub.ua/catalog/books/childbooks_7_12_years/skajena-matematika-shkola-charodiyiv)
-
-Л. Бертола. [Скажена математика: зачарований ліс](https://bookclub.ua/catalog/books/childbooks_7_12_years/skajena-matematika-zacharovaniy-lis)
-
 Г. Мур. [Математичні ігри для розумних дітей](https://bookclub.ua/catalog/books/childbooks_7_12_years/matematichni-igri-dlya-rozumnih-ditey)
-
-Трейсі Янґ і Кейті Г’юветт. [Крута математика.](https://mybookshelf.com.ua/kruta-matematika-trejsi-yan-i-kejti-gyuvett/p2073)
 
 
 
