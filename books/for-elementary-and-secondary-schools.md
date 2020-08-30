@@ -4,6 +4,8 @@
 
 Г. Мур. [Математичні ігри для розумних дітей](https://bookclub.ua/catalog/books/childbooks_7_12_years/matematichni-igri-dlya-rozumnih-ditey)
 
+Трейсі Янґ і Кейті Г’юветт. [Крута математика.](https://mybookshelf.com.ua/kruta-matematika-trejsi-yan-i-kejti-gyuvett/p2073)
+
 
 
 Эм. Александрова, В. Лёвшин. В лабиринте чисел : путешествие от А до Я со всеми остановками \(див. [тут](https://royallib.com/book/aleksandrova_emiliya/v_labirinte_chisel.html)\)
