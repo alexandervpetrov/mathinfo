@@ -14,5 +14,6 @@
   * [Література для сумісного читання з малюками](books/reading-with-toodlers.md)
 * [Відео-уроки](videoteka/README.md)
   * [Лекції Г.Б. Філіповського](videoteka/filipovski.md)
+  * [Канал Топ Школа](videoteka/top-school.md)
 * [Фільми](films.md)
 
