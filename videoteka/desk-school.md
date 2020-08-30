@@ -28,6 +28,18 @@
 
 [Поняття «швидкості»](https://www.youtube.com/watch?v=q-DB2yDnaGM&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=15&t=0s)
 
+[Математичний аналіз](https://www.youtube.com/watch?v=6AYjDXb5p6M&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=16&t=0s)
+
+[Приклади застосування математичного аналізу](https://www.youtube.com/watch?v=JAlxjU3UMfY&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=17&t=0s)
+
+[Швидкість світла](https://www.youtube.com/watch?v=8Or1XXZtvUs&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=18&t=0s)
+
+[Спеціальна теорія відносності](https://www.youtube.com/watch?v=LjTtemm8vqM&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=19&t=0s)
+
+[Поняття «хаос»](https://www.youtube.com/watch?v=WuImb6UGZSg&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=20&t=0s)
+
+[Роль дослідження хаотичних процесів](https://www.youtube.com/watch?v=-MyVTkYBx0o&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=21&t=0s)
+
 
 
 
