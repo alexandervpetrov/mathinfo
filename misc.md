@@ -4,9 +4,9 @@
 
 
 
-* Н. Іванова. [Математичний календар](https://www.researchgate.net/project/Mathematical-Calendar) \(перелік важливих математичних дат і подій\)
 * [Математичний олімпіадний рух України](https://matholymp.org.ua/)
-* [Math.Ru](https://math.ru/) - електронна быблыотека російськомовних видань
+* Н. Іванова. [Математичний календар](https://www.researchgate.net/project/Mathematical-Calendar) \(перелік важливих математичних дат і подій\)
+* [Math.Ru](https://math.ru/) - електронна бібліотека російськомовних видань
 
 
 
