@@ -16,5 +16,6 @@
   * [Математичне літо в МАН 2020](videoteka/summer-2020.md)
   * [Лекції Г.Б. Філіповського](videoteka/filipovski.md)
   * [Канал Топ Школа](videoteka/top-school.md)
+  * [Банк лекцій "Університет у кишені"](videoteka/uni-in-pocket.md)
 * [Фільми](films.md)
 
