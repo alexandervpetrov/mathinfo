@@ -16,6 +16,12 @@
 
 [Шифри в історії та літературі](https://www.youtube.com/watch?v=zPAEQRXNGx8&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=9&t=0s)
 
+[Історичні шифри, їх вдосконалення та застосування](https://www.youtube.com/watch?v=yH6GQ_svNSI&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=10&t=0s)
+
+[Шифрування чисел](https://www.youtube.com/watch?v=ku2wpDfVXF4&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=11&t=0s)
+
+
+
 
 
 
