@@ -13,6 +13,7 @@
   * [Методична література для батьків дошкільників](books/for-preschoolers-parents.md)
   * [Література для сумісного читання з малюками](books/reading-with-toodlers.md)
 * [Відео-уроки](videoteka/README.md)
+  * [І. Єгорченко. Незвичайна математика звичайних речей](videoteka/desk-school.md)
   * [Математичне літо в МАН 2020](videoteka/summer-2020.md)
   * [Лекції Г.Б. Філіповського](videoteka/filipovski.md)
   * [Канал Топ Школа](videoteka/top-school.md)
