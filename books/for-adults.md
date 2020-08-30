@@ -5,7 +5,7 @@
 
 Джордан Елленберг. [Як ніколи не помилятися. Сила математичного мислення](https://nashformat.ua/products/yak-nikoly-ne-pomylyatysya.-syla-matematychnogo-myslennya-709048)
 
-Г.А. Радемахер, О. Тепліц. [Числа і фігури](https://bohdan-books.com/catalog/book/104055/)
+Г. А. Радемахер, О. Тепліц. [Числа і фігури](https://bohdan-books.com/catalog/book/104055/)
 
 Стівен Строгац. [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
 
