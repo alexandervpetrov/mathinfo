@@ -2,7 +2,13 @@
 
 Майк Барфилд. [Позбався цієї книги заради математики](https://bookclub.ua/catalog/books/learning/pozbavsya-ciieyi-knigi-zaradi-matematiki) 
 
+Л. Бертола. [Скажена математика: школа чародіїв](https://bookclub.ua/catalog/books/childbooks_7_12_years/skajena-matematika-shkola-charodiyiv)
+
+Л. Бертола. [Скажена математика: зачарований ліс](https://bookclub.ua/catalog/books/childbooks_7_12_years/skajena-matematika-zacharovaniy-lis)
+
 Г. Мур. [Математичні ігри для розумних дітей](https://bookclub.ua/catalog/books/childbooks_7_12_years/matematichni-igri-dlya-rozumnih-ditey)
+
+Трейсі Янґ і Кейті Г’юветт. [Крута математика.](https://mybookshelf.com.ua/kruta-matematika-trejsi-yan-i-kejti-gyuvett/p2073)
 
 
 
@@ -17,6 +23,8 @@
 Дал К. Поиграем в математику 
 
 Депман И. Я. Мир чисел: рассказы о математике \([djvu](http://pyrkov-professor.ru/Portals/0/Mediateka/School/depman_i_ya_rasskazy_o_matematike.djvu)\)
+
+ Депман И.Я., Виленкин Н. За страницами учебника математики \(приблизно 5-6 клас\) \([djvu](https://1lib.eu/dl/2847279/97dbaa)\)
 
 Щ. Еленьский. По следам Пифагора \([djvu](https://sheba.spb.ru/s/knigi/pifagor-zanimat-1961.djvu)\)
 

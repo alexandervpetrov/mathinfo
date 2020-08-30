@@ -5,24 +5,6 @@
 
 Джордан Елленберг. [Як ніколи не помилятися. Сила математичного мислення](https://nashformat.ua/products/yak-nikoly-ne-pomylyatysya.-syla-matematychnogo-myslennya-709048)
 
-Кордемський Б. [Усяка всячина. Книга перша.](https://bohdan-books.com/catalog/book/103853/)
-
-Кордемський Б. [Галерея казок і фантазій. Книга друга.](https://bohdan-books.com/catalog/book/99318/)
-
-Кордемський Б. [Події та пригоди на стежинках матем. Книга третя.](https://bohdan-books.com/catalog/book/103025/)
-
-Кордемський Б. [Плюс кмітливість. Книга четверта.](https://bohdan-books.com/catalog/book/103002/)
-
-Кордемський Б. [Тринадцять захопливих диваків. Книга п’ята.](https://bohdan-books.com/catalog/book/103562/)
-
-Кордемський Б. [Маленькі таємниці чисел та фігур. Книга шоста.](https://bohdan-books.com/catalog/book/102353/)
-
-Кордемський Б. [Віддалеки через віки. Книга сьома.](https://bohdan-books.com/catalog/book/99204/)
-
-Кордемський Б. [Незвичайне - у звичайному. Книга восьма.](https://bohdan-books.com/catalog/book/102722/)
-
-Кордемський Б. [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
-
 Г. А. Радемахер, О. Тепліц. [Числа і фігури](https://bohdan-books.com/catalog/book/104055/)
 
 Стівен Строгац. [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
