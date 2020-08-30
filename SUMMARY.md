@@ -19,5 +19,5 @@
   * [Банк лекцій "Університет у кишені"](videoteka/uni-in-pocket.md)
 * [Фільми](films.md)
 * [Різне](misc.md)
-* [Наша команда](contacts.md)
+* [Наші контакти](contacts.md)
 
