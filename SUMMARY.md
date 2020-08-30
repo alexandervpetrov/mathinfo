@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Головна](README.md)
+* [Наша команда](contacts.md)
 * [Книги](books/README.md)
   * [Науково-популярна література для дорослих](books/for-adults.md)
   * [Книги для самоосвіти/ Математика з нуля для дорослих](books/self-education.md)
