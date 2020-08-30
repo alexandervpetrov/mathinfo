@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Головна](README.md)
-* [Наша команда](contacts.md)
 * [Книги](books/README.md)
   * [Науково-популярна література для дорослих](books/for-adults.md)
   * [Книги для самоосвіти/ Математика з нуля для дорослих](books/self-education.md)
@@ -19,4 +18,5 @@
   * [Канал Топ Школа](videoteka/top-school.md)
   * [Банк лекцій "Університет у кишені"](videoteka/uni-in-pocket.md)
 * [Фільми](films.md)
+* [Наша команда](contacts.md)
 
