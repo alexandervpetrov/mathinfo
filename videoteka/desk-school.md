@@ -40,6 +40,18 @@
 
 [Роль дослідження хаотичних процесів](https://www.youtube.com/watch?v=-MyVTkYBx0o&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=21&t=0s)
 
+[Фрактали](https://www.youtube.com/watch?v=HqeORBNz64s&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=22&t=0s)
+
+[Логарифми та число «е»](https://www.youtube.com/watch?v=VLc1cveWTjA&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=23&t=0s)
+
+[Відсотки - базове поняття фінансової математики](https://www.youtube.com/watch?v=eAQJHkksTPs&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=24&t=0s)
+
+[Приклади задач про відсотки](https://www.youtube.com/watch?v=iTpz0EC3H20&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=25&t=0s)
+
+[Використання логарифмів](https://www.youtube.com/watch?v=Qt2_hV1jRTY&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=26&t=0s)
+
+[Математична теорія зв'язку](https://www.youtube.com/watch?v=K3A5iIXego4&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=27&t=0s)
+
 
 
 
