@@ -11,6 +11,8 @@
 
 Айзек Азимов. Основания \(див. [тут](http://lib.ru/FOUNDATION/)\) 
 
+А. Азимов. Профессия \(читати [он-лайн](https://librebook.me/profession/vol1/1)\)
+
 Мартин Гарднер. [Остров пяти красок](http://lib.ru/INOFANT/GARDNER_M/island.txt)
 
 Мартин Гарднер. [Нульсторонний профессор](http://lib.ru/INOFANT/GARDNER_M/zero_dim.txt) \(переклад російською мовою двух глав з чудового фантастического роману Gardner M. [The No-Sided Professor and Other Tales of Fantasy, Humor, Mystery and Philosophy](%20https://epdf.pub/the-no-sided-professor.html)\) 
