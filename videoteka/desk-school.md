@@ -20,6 +20,14 @@
 
 [Шифрування чисел](https://www.youtube.com/watch?v=ku2wpDfVXF4&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=11&t=0s)
 
+[Роль кодування інформації в сучасному житті](https://www.youtube.com/watch?v=s3R8y5ntKjg&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=12&t=0s)
+
+[Цифровий підпис та його застосування](https://www.youtube.com/watch?v=sHTMokF0dGA&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=13&t=0s)
+
+[Вправи з шифрування та розшифровування повідомлень](https://www.youtube.com/watch?v=BiOVKB6NTgk&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=14&t=0s)
+
+[Поняття «швидкості»](https://www.youtube.com/watch?v=q-DB2yDnaGM&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=15&t=0s)
+
 
 
 
