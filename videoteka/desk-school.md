@@ -52,6 +52,16 @@
 
 [Математична теорія зв'язку](https://www.youtube.com/watch?v=K3A5iIXego4&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=27&t=0s)
 
+[Теорема Ферма. Гіпотеза Коллатца](https://www.youtube.com/watch?v=1nTx_ThPMSk&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=28&t=0s)
+
+[Задача пакування куль](https://www.youtube.com/watch?v=tvDde_Wx3Vo&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=29&t=0s)
+
+[Проблема Гольдбаха та інші прості складні задачі](https://www.youtube.com/watch?v=nz8rr--l6N0&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=30&t=0s)
+
+[Типові помилки математиків-любителів](https://www.youtube.com/watch?v=XZSh4XZbc8Y&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=31&t=0s)
+
+[Приклади простих складних задач](https://www.youtube.com/watch?v=4L29t53lYGY&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=32&t=0s)
+
 
 
 
