@@ -2,6 +2,8 @@
 
  Керол Вордерман. [Математика легка й зрозуміла](https://nashformat.ua/products/matematyka-legka-j-zrozumila-701514)
 
+Барбара Оклі. [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
+
 
 
 А. Звонкин. Малыши и математика. Домашний кружок для дошкольников.  \(деякі глави чудово підходять для для 1-4 класу\) \([pdf](https://www.mccme.ru/free-books/zvonkine/zvonkine2.pdf)\)
