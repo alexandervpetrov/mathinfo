@@ -1,6 +1,6 @@
 # Методична література для батьків школярів та педагогів
 
- Керол Вордерман. [Математика легка й зрозуміла](https://nashformat.ua/products/matematyka-legka-j-zrozumila-701514)
+Керол Вордерман. [Математика легка й зрозуміла](https://nashformat.ua/products/matematyka-legka-j-zrozumila-701514)
 
 Барбара Оклі. [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
 
