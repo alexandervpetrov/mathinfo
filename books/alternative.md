@@ -4,5 +4,5 @@
 
 А. Лобок, [Другая математика](http://allobok.ru/?page_id=83)    
 
- Пол Локхард, [Плач математика](http://nbspace.ru/math/)
+ Пол Экхард, [Плач математика](http://nbspace.ru/math/)
 

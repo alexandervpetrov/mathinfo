@@ -23,6 +23,8 @@
 
 Кордемський Б. [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
 
+Барбара Оклі. [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
+
 Г. А. Радемахер, О. Тепліц. [Числа і фігури](https://bohdan-books.com/catalog/book/104055/)
 
 Стівен Строгац. [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
