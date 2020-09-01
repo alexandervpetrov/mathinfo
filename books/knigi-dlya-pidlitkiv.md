@@ -20,6 +20,8 @@
 
 Кузько Кузякін [\#щотакематематика?](https://shop.talantbooks.com.ua/uk/catalog-ukr/hudoznya-literatura/naykrashchiy-podarunok/shotakematematuka-u/)
 
+Моріта Масао. [Математик, який перетворився на мурашку.](http://www.books-xxi.com.ua/products/matematik-yakij-peretvorivsya-na-murashku)
+
 Я. Перельман. [Жива математика](https://bohdan-books.com/catalog/book/130766/)
 
 Я. Перельман. [Захоплююча алгебра](https://bohdan-books.com/catalog/book/101854/)
