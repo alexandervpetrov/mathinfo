@@ -44,3 +44,5 @@
 
 Урок 22. [Принцип Діріхле в геометричних задачах](https://www.youtube.com/watch?v=8sbvdfiPE_o&feature=share&fbclid=IwAR1eZv_F9WarRinwO2TKQGGr79txGl5_mnpQb3MZQN2Vuy33tbCPEkDIedU).
 
+Урок 23. [Пряма Ейлера.](https://youtu.be/642N74aUpLc)
+
