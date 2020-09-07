@@ -1,42 +1,11 @@
 # Книги для підлітків
 
-Кордемський Б. [Усяка всячина. Книга перша.](https://bohdan-books.com/catalog/book/103853/)
-
-Кордемський Б. [Галерея казок і фантазій. Книга друга.](https://bohdan-books.com/catalog/book/99318/)
-
-Кордемський Б. [Події та пригоди на стежинках матем. Книга третя.](https://bohdan-books.com/catalog/book/103025/)
-
-Кордемський Б. [Плюс кмітливість. Книга четверта.](https://bohdan-books.com/catalog/book/103002/)
-
-Кордемський Б. [Тринадцять захопливих диваків. Книга п’ята.](https://bohdan-books.com/catalog/book/103562/)
-
-Кордемський Б. [Маленькі таємниці чисел та фігур. Книга шоста.](https://bohdan-books.com/catalog/book/102353/)
-
-Кордемський Б. [Віддалеки через віки. Книга сьома.](https://bohdan-books.com/catalog/book/99204/)
-
-Кордемський Б. [Незвичайне - у звичайному. Книга восьма.](https://bohdan-books.com/catalog/book/102722/)
-
-Кордемський Б. [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
-
+  
 Кузько Кузякін [\#щотакематематика?](https://shop.talantbooks.com.ua/uk/catalog-ukr/hudoznya-literatura/naykrashchiy-podarunok/shotakematematuka-u/)
-
-Моріта Масао. [Математик, який перетворився на мурашку.](http://www.books-xxi.com.ua/products/matematik-yakij-peretvorivsya-na-murashku)
-
-Я. Перельман. [Жива математика](https://bohdan-books.com/catalog/book/130766/)
-
-Я. Перельман. [Захоплююча алгебра](https://bohdan-books.com/catalog/book/101854/)
-
-Я. Перельман. [Захоплююча геометрія](https://bohdan-books.com/catalog/book/101856/)
-
-І. Шаригін. [Геометрія для 21-го століття. Книга для допитливих учнів та вдумливих учасників](https://bohdan-books.com/catalog/book/136787/)
 
 
 
 Джин Акияма, Мари-Джо Руис. Страна математических чудес
-
-Аренс В. Математические игры \(читати [он-лайн](https://avidreaders.ru/read-book/matematicheskie-igry.html)\)
-
-Ирина Берлянд. Загадки числа 
 
  Бобров, С. П. Архимедово лето, или История содружества юных математиков : кн. 1 \([djvu](https://sheba.spb.ru/za/arhimedovo-leto1-1959.djvu)\)
 
@@ -81,8 +50,6 @@
 Смаллиан, Р. Как же называется эта книга?
 
 Смаллиан, Р. Принцесса или тигр?
-
-В. Тихомиров. Великие математики прошлого и их великие теоремы.
 
 Энциклопедический словарь юного математика \(читати [он-лайн](https://scask.ru/a_book_e_math.php)\)
 
