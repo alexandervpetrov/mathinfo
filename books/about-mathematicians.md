@@ -2,6 +2,8 @@
 
 Г. Возняк. [Михайло Петрович. Філософ і математик - повернення в Україну.](https://www.yakaboo.ua/mihajlo-petrovich-filosof-i-matematik-povernennja-v-ukrainu.html)
 
+С. Назар. [Блискучий розум.](https://bookclub.ua/catalog/books/pop/bliskuchiy-rozum)
+
 
 
 Эм. Александрова, В. Левшин. Искатели великих автографов.
