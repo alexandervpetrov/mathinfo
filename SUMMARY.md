@@ -2,8 +2,8 @@
 
 * [Головна](README.md)
 * [Книги](books/README.md)
-  * [Книги про математиків та автобіографії](books/about-mathematicians.md)
   * [Науково-популярна література для дорослих](books/for-adults.md)
+  * [Книги про математиків та автобіографії](books/about-mathematicians.md)
   * [Книги для самоосвіти/ Математика з нуля для дорослих](books/self-education.md)
   * [Художня література з математичною "родзинкою"](books/fiction-books.md)
   * [Альтернативні шкільні програми/ Проблеми в існуючих програмах](books/alternative.md)
