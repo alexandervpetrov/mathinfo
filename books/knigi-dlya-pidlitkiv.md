@@ -1,31 +1,62 @@
 # Книги для підлітків
 
-  
+Кордемський Б. [Усяка всячина. Книга перша.](https://bohdan-books.com/catalog/book/103853/)
+
+Кордемський Б. [Галерея казок і фантазій. Книга друга.](https://bohdan-books.com/catalog/book/99318/)
+
+Кордемський Б. [Події та пригоди на стежинках матем. Книга третя.](https://bohdan-books.com/catalog/book/103025/)
+
+Кордемський Б. [Плюс кмітливість. Книга четверта.](https://bohdan-books.com/catalog/book/103002/)
+
+Кордемський Б. [Тринадцять захопливих диваків. Книга п’ята.](https://bohdan-books.com/catalog/book/103562/)
+
+Кордемський Б. [Маленькі таємниці чисел та фігур. Книга шоста.](https://bohdan-books.com/catalog/book/102353/)
+
+Кордемський Б. [Віддалеки через віки. Книга сьома.](https://bohdan-books.com/catalog/book/99204/)
+
+Кордемський Б. [Незвичайне - у звичайному. Книга восьма.](https://bohdan-books.com/catalog/book/102722/)
+
+Кордемський Б. [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
+
 Кузько Кузякін [\#щотакематематика?](https://shop.talantbooks.com.ua/uk/catalog-ukr/hudoznya-literatura/naykrashchiy-podarunok/shotakematematuka-u/)
+
+Моріта Масао. [Математик, який перетворився на мурашку.](http://www.books-xxi.com.ua/products/matematik-yakij-peretvorivsya-na-murashku)
+
+Я. Перельман. [Жива математика](https://bohdan-books.com/catalog/book/130766/)
+
+Я. Перельман. [Захоплююча алгебра](https://bohdan-books.com/catalog/book/101854/)
+
+Я. Перельман. [Захоплююча геометрія](https://bohdan-books.com/catalog/book/101856/)
+
+І. Шаригін. [Геометрія для 21-го століття. Книга для допитливих учнів та вдумливих учасників](https://bohdan-books.com/catalog/book/136787/)
 
 
 
 Джин Акияма, Мари-Джо Руис. Страна математических чудес
 
- Бобров, С. П. Архимедово лето, или История содружества юных математиков : кн. 1 \([djvu](https://sheba.spb.ru/za/arhimedovo-leto1-1959.djvu)\)
+Аренс В. Математические игры \(читати [он-лайн](https://avidreaders.ru/read-book/matematicheskie-igry.html)\)
 
- Бобров, С. П. Архимедово лето, или История содружества юных математиков : кн. 2 \([djvu](https://sheba.spb.ru/za/arhimedovo-leto2-1962.djvu)\)
+Ирина Берлянд. Загадки числа 
 
- Сергей Бобров. Волшебный двурог \([djvu](https://math.ru/lib/files/djvu/dvurog.djvu)\)
+Бобров, С. П. Архимедово лето, или История содружества юных математиков : кн. 1 \([djvu](https://sheba.spb.ru/za/arhimedovo-leto1-1959.djvu)\)
+
+Бобров, С. П. Архимедово лето, или История содружества юных математиков : кн. 2 \([djvu](https://sheba.spb.ru/za/arhimedovo-leto2-1962.djvu)\)
+
+Сергей Бобров. Волшебный двурог \([djvu](https://math.ru/lib/files/djvu/dvurog.djvu)\)
 
 Генденштейн Л. Э. Алиса в Стране Математики \(див. [тут](https://royallib.com/book/gendenshteyn_lev/alisa_v_strane_matematiki.html)\)
 
- Депман И.Я., Виленкин Н. За страницами учебника математики \(приблизно 5-6 клас\) \([djvu](https://1lib.eu/dl/2847279/97dbaa)\)
+Депман И.Я., Виленкин Н. За страницами учебника математики \(приблизно 5-6 клас\) \([djvu](https://1lib.eu/dl/2847279/97dbaa)\)
 
- В. П. Карцев. Приключения великих уравнений \(див. [тут](https://royallib.com/book/kartsev_vladimir/priklyucheniya_velikih_uravneniy.html)\)
+В. П. Карцев. Приключения великих уравнений \(див. [тут](https://royallib.com/book/kartsev_vladimir/priklyucheniya_velikih_uravneniy.html)\)
 
- Кордемский Б. А. [Математическая смекалка](https://www.mathedu.ru/text/kordemskiy_matematicheskaya_smekalka_1956/p45/)
+Кордемский Б. А. [Математическая смекалка](https://www.mathedu.ru/text/kordemskiy_matematicheskaya_smekalka_1956/p45/)
 
- Кузякин К. Неучебник математики
+Кузякин К. Неучебник математики
 
 Кэрролл, Л. История с узелками: математические головоломки и развлечения \(читати [он-лайн](https://librebook.me/a_tangled_tale/vol1/1)\)
 
- Лойд С. Математическая мозаика: для детей и взрослых \(читати [он-лайн](https://bookree.org/reader?file=485105&pg=15)\)
+Лойд С. Математическая мозаика: для детей и взрослых \(читати [он-лайн](https://bookree.org/reader?file=485105&pg=15)\)
 
 Анна Людвицкая. Математическая пицца
 
@@ -50,6 +81,8 @@
 Смаллиан, Р. Как же называется эта книга?
 
 Смаллиан, Р. Принцесса или тигр?
+
+В. Тихомиров. Великие математики прошлого и их великие теоремы.
 
 Энциклопедический словарь юного математика \(читати [он-лайн](https://scask.ru/a_book_e_math.php)\)
 
