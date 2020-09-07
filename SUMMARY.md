@@ -13,7 +13,7 @@
   * [Школярам](books/for-elementary-and-secondary-schools.md)
   * [Дошкільнятам](books/for-preschoolers-parents.md)
   * [Малюкам](books/reading-with-toodlers.md)
-* [Відео-уроки](videoteka/README.md)
+* [Відео](videoteka/README.md)
   * [І. Єгорченко. Незвичайна математика звичайних речей](videoteka/desk-school.md)
   * [Математичне літо в МАН 2020](videoteka/summer-2020.md)
   * [Лекції Г.Б. Філіповського](videoteka/filipovski.md)
@@ -21,5 +21,5 @@
   * [Банк лекцій "Університет у кишені"](videoteka/uni-in-pocket.md)
 * [Фільми](films.md)
 * [Різне](misc.md)
-* [Наші контакти](contacts.md)
+* [Контакти](contacts.md)
 
