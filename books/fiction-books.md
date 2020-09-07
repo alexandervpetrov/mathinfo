@@ -17,8 +17,6 @@
 
 М. Гарднер. [Нульсторонний профессор](http://lib.ru/INOFANT/GARDNER_M/zero_dim.txt) \(переклад російською мовою двух глав з чудового фантастического роману Gardner M. [The No-Sided Professor and Other Tales of Fantasy, Humor, Mystery and Philosophy](%20https://epdf.pub/the-no-sided-professor.html)\) 
 
-Д. Кельман. Измеряя мир.
-
 А. Конан-Дойль. [Пляшущие человечки](http://lib.ru/AKONANDOJL/sh_dancm.txt).
 
 Г. Мартинес. Незаметные убийства.
