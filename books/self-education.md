@@ -4,8 +4,6 @@ description: Книги для самоосвіти / Математика з н
 
 # Самоосвіта для дорослих
 
-## Книги для самоосвіти / Математика з нуля для дорослих
-
 Барбара Оклі. [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
 
 Стівен Строгац. [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
