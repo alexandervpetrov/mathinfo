@@ -46,3 +46,5 @@
 
 Урок 23. [Пряма Ейлера.](https://youtu.be/642N74aUpLc)
 
+Урок 24. [Коло Ейлера.](https://youtu.be/CZ7ePMI9D1U)
+
