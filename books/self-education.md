@@ -4,9 +4,13 @@ description: Книги для самоосвіти / Математика з н
 
 # Самоосвіта для дорослих
 
-Барбара Оклі. [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
+А. Бенджамін, [Магія математики. Як знайти Х і навіщо це потрібно](https://kmbooks.com.ua/book?code=733716)
 
-Стівен Строгац. [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
+Дж. Елленберг, [Як ніколи не помилятися. Сила математичного мислення](https://nashformat.ua/products/yak-nikoly-ne-pomylyatysya.-syla-matematychnogo-myslennya-709048)
+
+Б. Оклі, [Навчитися вчитися. Як запустити свій мозок на повну](https://nashformat.ua/products/navchytysya-vchytysya.-yak-zapustyty-svij-mozok-na-povnu-709140)
+
+С. Строгац, [Екскурсія математикою. Як через готелі, риб, камінці і пасажирів зрозуміти цю науку](https://nashformat.ua/products/ekskursiya-matematykoyu.-yak-cherez-goteli-ryb-kamintsi-i-pasazhyriv-zrozumity-tsyu-nauku-709220)
 
 
 
