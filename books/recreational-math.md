@@ -46,3 +46,5 @@ description: 'Цікавинки, задачі на логіку, загадки
 
 С. Н. Федин, Математики тоже шутят \(див. [тут](https://royallib.com/book/fedin_sergey/matematiki_toge_shutyat.html)\).
 
+Г. Шейнгауз, Математический калейдоскоп \([djvu](https://sheba.spb.ru/za/kvant08-matemat-1981.djvu)\)
+
