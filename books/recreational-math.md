@@ -44,3 +44,5 @@ description: 'Цікавинки, задачі на логіку, загадки
 
 С. Сингх, Симпсоны и их математические секреты.
 
+С. Н. Федин, Математики тоже шутят \(див. [тут](https://royallib.com/book/fedin_sergey/matematiki_toge_shutyat.html)\).
+
