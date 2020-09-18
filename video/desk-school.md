@@ -1,6 +1,6 @@
 # І. Єгорченко. Незвичайна математика звичайних речей
 
-[Незвичайна математика звичайних речей](https://youtu.be/4o2nMBGmmGs)
+[Незвичайна математика звичайних речей](https://www.youtube.com/watch?v=4o2nMBGmmGs&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=2&ab_channel=DeskEducation)
 
 [Математичні моделі та їх різновиди](https://www.youtube.com/watch?v=WfXxipleAZg&list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6&index=3&t=0s)
 
