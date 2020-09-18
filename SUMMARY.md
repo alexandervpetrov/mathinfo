@@ -2,6 +2,7 @@
 
 * [Головна](README.md)
 * [Книги](books/README.md)
+  * [Розважальна математика](books/recreational-math.md)
   * [Наукпоп для дорослих](books/for-adults.md)
   * [Про математиків](books/about-mathematicians.md)
   * [Самоосвіта для дорослих](books/self-education.md)
