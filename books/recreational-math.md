@@ -4,7 +4,7 @@ description: 'Цікавинки, задачі на логіку, загадки
 
 # Розважальна математика
 
-І. Стюарт, [Неймовірні числа професора Стюарта](https://nashformat.ua/products/nejmovirni-chysla-profesora-styuarta-909245)
+І. Стюарт, [Неймовірні числа професора Стюарта](https://nashformat.ua/products/nejmovirni-chysla-profesora-styuarta-909245).
 
 
 
