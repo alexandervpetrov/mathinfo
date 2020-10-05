@@ -14,3 +14,5 @@
 
 Ю.Манин. Математика как метафора \([pdf](https://math.ru/lib/files/pdf/manin.pdf)\)
 
+В.А. Успенский, Апология математики \(див. [тут](https://royallib.com/book/uspenskiy_vladimir_andreevich/apologiya_matematiki_ili_o_matematike_kak_chasti_duhovnoy_kulturi.html)\)
+
