@@ -2,9 +2,9 @@
 
 * [Головна](README.md)
 * [Книги](books/README.md)
-  * [Філософія математики](books/philosophy.md)
   * [Розважальна математика](books/recreational-math.md)
   * [Наукпоп для дорослих](books/for-adults.md)
+  * [Філософія математики](books/philosophy.md)
   * [Про математиків](books/about-mathematicians.md)
   * [Самоосвіта для дорослих](books/self-education.md)
   * [Художня література](books/fiction-books.md)
