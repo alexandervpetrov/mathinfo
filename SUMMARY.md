@@ -10,6 +10,7 @@
   * [Художня література](books/fiction-books.md)
   * [Про навчання та школу](books/alternative.md)
   * [Задачники](books/problem-books.md)
+  * [Математичні гуртки](books/gurtky.md)
   * [Батькам школярів](books/for-parents.md)
   * [Підліткам](books/knigi-dlya-pidlitkiv.md)
   * [Школярам](books/for-elementary-and-secondary-schools.md)
