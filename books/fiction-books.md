@@ -31,6 +31,12 @@ description: Художня література з математичною "р
 
 Г. Мартинес. Незаметные убийства.
 
+Ж.-П. Пети. [Причуды топологии](http://www.savoir-sans-frontieres.com/JPP/telechargeables/Russe/topologicon_russe//topologicon_russe.pdf?fbclid=IwAR3bSiGoNLPHWpamaKV9GNOLt74jUh1TJfrOhIwkIAc4OiY4P3hUkRGhbJM) \(комікс\)
+
+Ж.-П. Пети. [О чем размышляют роботы?](http://www.savoir-sans-frontieres.com/JPP/telechargeables/Russe/robots_russe/ROBOTS_RUSSIAN.pdf?fbclid=IwAR0AKC9IrYTWX6DU8W9QMmR1pkNKRjQEgWBVzNDpmEshGtRRDoUi9qVzAAo) \(комікс\)
+
+Ж.-П. Пети. [Чудак-геометр](http://www.savoir-sans-frontieres.com/JPP/telechargeables/Russe/Geometricon_russe/geometricon_russe.pdf?fbclid=IwAR208jgW-5CoNcaarq7M27L7wgqsg9kp6J4XpYtZBKwiDZslwoLFhETc-4U) \(комікс\)
+
 Р. Рюкер «Матенавты: рассказы о математических чудесах» збірка з 23 науково-фантастичних оповідань, кожне з яких має певне відношення до математики\)
 
 Н. Стивенсон. Криптономикон.
