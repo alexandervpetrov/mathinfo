@@ -10,5 +10,3 @@
 
 М. Клайн, Математика. Утрата определенности \(див. [тут](https://royallib.com/book/klayn_moris/matematika_utrata_opredelennosti.html)\)
 
-И. Лакатос. Доказательства и опровержения. \(читати [он-лайн](https://www.mathedu.ru/text/lakatos_dokazatelstva_i_oproverzheniya_1967/p0/)\)
-
