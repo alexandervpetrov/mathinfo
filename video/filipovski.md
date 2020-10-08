@@ -54,3 +54,5 @@
 
 Урок 27. [Теорема Кейсі.](https://youtu.be/fl4Jbvm4I5I)
 
+Урок 28. [Теорема Стюарта.](https://youtu.be/56m1UvXAFKc)
+
