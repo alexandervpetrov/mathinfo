@@ -56,3 +56,5 @@
 
 Урок 28. [Теорема Стюарта.](https://youtu.be/56m1UvXAFKc)
 
+Урок 29. [Теорема Чеви.](https://youtu.be/cAlhehtkFr0)
+
