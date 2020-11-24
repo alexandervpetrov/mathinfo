@@ -8,7 +8,7 @@
   
 [**Наталія Іванова**](https://www.facebook.com/nataliya.ivanova.1238):  викладачка математики в Європейському університеті Кіпру та дитячого он-лайн гуртка з математики, _ivanova.nataliya@gmail.com_  
   
-[**Сашко Петров**](https://www.facebook.com/alexandervpetrov): технічна та мотиваційна підтримка проєкту, _alexandervpetrov@gmail.com_ 
+[**Олександр Петров**](https://www.facebook.com/alexandervpetrov): математик і програміст, здійснює технічну та мотиваційну підтримку проєкту, _alexandervpetrov@gmail.com_ 
 
 Будь-ласка, надсилайте ваші зауваження та побажання за допомогою форми:
 
