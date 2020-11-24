@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Головна](README.md)
+* [Математика всюди](README.md)
 * [Книги](books/README.md)
+  * [Історія математики](books/math-history.md)
   * [Наукпоп для дорослих](books/for-adults.md)
   * [Розважальна математика](books/recreational-math.md)
   * [Філософія математики](books/philosophy.md)
