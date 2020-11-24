@@ -19,9 +19,9 @@ description: Художня література з математичною "р
 
 М. Гарднер, [Остров пяти красок](http://lib.ru/INOFANT/GARDNER_M/island.txt).
 
-И. Грекова, Кафедра.
+М. Гарднер, [Нульсторонний профессор](http://lib.ru/INOFANT/GARDNER_M/zero_dim.txt) \(переклад російською мовою двух глав з чудового фантастического роману Gardner M. [The No-Sided Professor and Other Tales of Fantasy, Humor, Mystery and Philosophy](%20https://epdf.pub/the-no-sided-professor.html)\).
 
-М. Гарднер, [Нульсторонний профессор](http://lib.ru/INOFANT/GARDNER_M/zero_dim.txt), [Остров пяти красок](http://lib.ru/INOFANT/GARDNER_M/island.txt) \(переклад російською мовою двух глав з чудового фантастического роману Gardner M. [The No-Sided Professor and Other Tales of Fantasy, Humor, Mystery and Philosophy](%20https://epdf.pub/the-no-sided-professor.html)\).
+И. Грекова, Кафедра.
 
 Ю. Данилов, Трудная задача \(збірка науково-фантастичних оповідань\).
 
