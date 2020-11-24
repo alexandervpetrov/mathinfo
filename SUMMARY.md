@@ -18,7 +18,7 @@
   * [Малюкам](books/reading-with-toodlers.md)
 * [Відео](video/README.md)
   * [І. Єгорченко. Незвичайна математика звичайних речей](video/desk-school.md)
-  * [Математичне літо в МАН 2020](video/summer-2020.md)
+  * [Канал К. Терлецької](video/terletska.md)
   * [Лекції Г.Б. Філіповського](video/filipovski.md)
   * [Канал Топ Школа](video/top-school.md)
   * [Банк лекцій "Університет у кишені"](video/uni-in-pocket.md)
