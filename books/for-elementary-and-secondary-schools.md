@@ -76,6 +76,8 @@ description: Література для дітей молодшого та се
 
 В. А. Левшин, Новые рассказы Рассеянного Магистра, 1971 \(див. [тут](https://royallib.com/book/levshin_vladimir/novie_rasskazi_rasseyannogo_magistra.html)\), переиздано в 2018 году.
 
+А. Людвицкая, Математическая пицца.
+
 М. Патель, Весёлая математика \([pdf](https://yadi.sk/i/WBEKefjxuq5mz)\).
 
 М. Пегов, Семь раз отмерь!

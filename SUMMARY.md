@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Математика всюди](README.md)
+* [Математичні ігри](matematichni-igri.md)
 * [Книги](books/README.md)
   * [Історія математики](books/math-history.md)
   * [Наукпоп для дорослих](books/for-adults.md)
