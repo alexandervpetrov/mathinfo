@@ -1,7 +1,9 @@
+---
+description: Команда сайту та форма оберненого зв'язку
+---
+
 # Контакти
 
-Команда сайту:   
-  
 [**Олена Ванєєва**](https://www.facebook.com/olena.vaneeva): любителька та колекціонерка книжок про математику,  працює в Інституті математики НАНУ, [vaneeva@gmail.com](mailto:vaneeva@gmail.com)
 
 \*\*\*\*[**Ірина Єгорченко**](https://www.facebook.com/irynayegorchenko): блогерка та популяризаторка математики,  працює в Інституті математики НАНУ, [iryna.ye@gmail.com](mailto:iryna.ye@gmail.com)  
