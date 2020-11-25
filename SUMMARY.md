@@ -18,7 +18,6 @@
   * [Школярам](books/for-elementary-and-secondary-schools.md)
   * [Батькам дошкільнят](books/for-preschoolers-parents.md)
 * [Відео](video/README.md)
-  * [І. Єгорченко. Незвичайна математика звичайних речей](video/desk-school.md)
   * [Канал К. Терлецької](video/terletska.md)
   * [Лекції Г.Б. Філіповського](video/filipovski.md)
   * [Канал Топ Школа](video/top-school.md)
