@@ -72,9 +72,9 @@ description: Література для дітей молодшого та се
 
 В. А. Левшин, Фрегат капитана Единицы, 1968 \(перевидано під назвою Нулик-мореход\) \(див. [тут](https://royallib.com/book/levshin_vladimir/fregat_kapitana_edinitsi.html)\).
 
-В. А. Левшин, Магистр Рассеянных Наук, 1970  \(див. [тут](https://royallib.com/book/levshin_vladimir/magistr_rasseyannih_nauk.html)\).
+В. А. Левшин, Магистр Рассеянных Наук, 1970  \(див. [тут](https://royallib.com/book/levshin_vladimir/magistr_rasseyannih_nauk.html)\), переиздано в 2018 году в 2-х книгах: Диссертация Рассеянного Магистра, Путевые заметки Рассеянного Магистра.
 
-В. А. Левшин, Новые рассказы Рассеянного Магистра, 1971 \(див. [тут](https://royallib.com/book/levshin_vladimir/novie_rasskazi_rasseyannogo_magistra.html)\).
+В. А. Левшин, Новые рассказы Рассеянного Магистра, 1971 \(див. [тут](https://royallib.com/book/levshin_vladimir/novie_rasskazi_rasseyannogo_magistra.html)\), переиздано в 2018 году.
 
 М. Патель, Весёлая математика \([pdf](https://yadi.sk/i/WBEKefjxuq5mz)\).
 
