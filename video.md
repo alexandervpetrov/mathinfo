@@ -4,7 +4,7 @@ description: Відео-уроки з математики
 
 # Відео
 
-Науково-популярні лекції для школярів І. А. Єгорченко ["Незвичайна математика звичайних речей"](https://www.youtube.com/playlist?list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6) 
+Науково-популярні лекції для школярів І. А. Єгорченко ["Незвичайна математика звичайних речей"](https://www.youtube.com/playlist?list=PLBoNQWTfdR3iEmM8cIcueNcDa-pya63S6).
 
 Популярні лекції з математики для школярів у проекті [Математичне літо в МАН 2020](https://www.youtube.com/playlist?list=PLjId-bQQHLC2oe0usD3FlnLwdNy9VDAcN).
 
