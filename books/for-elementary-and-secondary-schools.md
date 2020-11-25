@@ -2,7 +2,7 @@
 description: Література для дітей молодшого та середнього шкільного віку
 ---
 
-# Школярам
+# Дітям
 
 М. Барфилд, [Позбався цієї книги заради математики](https://bookclub.ua/catalog/books/learning/pozbavsya-ciieyi-knigi-zaradi-matematiki).
 

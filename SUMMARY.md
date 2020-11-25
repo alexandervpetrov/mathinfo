@@ -14,7 +14,7 @@
   * [Математичні гуртки](books/gurtky.md)
   * [Батькам школярів](books/for-parents.md)
   * [Підліткам](books/knigi-dlya-pidlitkiv.md)
-  * [Школярам](books/for-elementary-and-secondary-schools.md)
+  * [Дітям](books/for-elementary-and-secondary-schools.md)
   * [Батькам дошкільнят](books/for-preschoolers-parents.md)
 * [Відео](video.md)
 * [Фільми](films.md)
