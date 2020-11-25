@@ -10,29 +10,37 @@ description: Література для дітей молодшого та се
 
 Л. Бертола, [Скажена математика: зачарований ліс](https://bookclub.ua/catalog/books/childbooks_7_12_years/skajena-matematika-zacharovaniy-lis).
 
-Г. Мур, [Математичні ігри для розумних дітей](https://bookclub.ua/catalog/books/childbooks_7_12_years/matematichni-igri-dlya-rozumnih-ditey).
-
-Т. Янґ, К. Г’юветт, [Крута математика.](https://mybookshelf.com.ua/kruta-matematika-trejsi-yan-i-kejti-gyuvett/p2073)
+Д. Джекобі, [STEM-СТАРТ для дітей. Математика. Книжка-активіті](https://www.ranok.com.ua/ru/info-stemstart-dlya-ditej-matematika-knizhkaaktiviti-27487.html). 
 
 Б. Кордемський, [Усяка всячина. Книга перша.](https://bohdan-books.com/catalog/book/103853/)
 
- Б. Кордемський, [Галерея казок і фантазій. Книга друга.](https://bohdan-books.com/catalog/book/99318/)
+Б. Кордемський, [Галерея казок і фантазій. Книга друга.](https://bohdan-books.com/catalog/book/99318/)
 
- Б. Кордемський, [Події та пригоди на стежинках матем. Книга третя.](https://bohdan-books.com/catalog/book/103025/)
+Б. Кордемський, [Події та пригоди на стежинках матем. Книга третя.](https://bohdan-books.com/catalog/book/103025/)
 
- Б. Кордемський, [Плюс кмітливість. Книга четверта.](https://bohdan-books.com/catalog/book/103002/)
+Б. Кордемський, [Плюс кмітливість. Книга четверта.](https://bohdan-books.com/catalog/book/103002/)
 
- Б. Кордемський, [Тринадцять захопливих диваків. Книга п’ята.](https://bohdan-books.com/catalog/book/103562/)
+Б. Кордемський, [Тринадцять захопливих диваків. Книга п’ята.](https://bohdan-books.com/catalog/book/103562/)
 
- Б. Кордемський, [Маленькі таємниці чисел та фігур. Книга шоста.](https://bohdan-books.com/catalog/book/102353/)
+Б. Кордемський, [Маленькі таємниці чисел та фігур. Книга шоста.](https://bohdan-books.com/catalog/book/102353/)
 
- Б. Кордемський, [Віддалеки через віки. Книга сьома.](https://bohdan-books.com/catalog/book/99204/)
+Б. Кордемський, [Віддалеки через віки. Книга сьома.](https://bohdan-books.com/catalog/book/99204/)
 
- Б. Кордемський, [Незвичайне - у звичайному. Книга восьма.](https://bohdan-books.com/catalog/book/102722/)
+Б. Кордемський, [Незвичайне - у звичайному. Книга восьма.](https://bohdan-books.com/catalog/book/102722/)
 
- Б. Кордемський, [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
+Б. Кордемський, [Робимо відкриття. Книга дев’ята.](https://bohdan-books.com/catalog/book/103227/)
 
-К. Стюарт, [Квест STEM. Чудові числа і круті розрахунки](https://shop.talantbooks.com.ua/katalog-knig/uchebnye-posobija/kvest-stem/matematika-chudesnye-chisla-krutye-raschety/). 
+Г. Мур, [Математичні ігри для розумних дітей](https://bookclub.ua/catalog/books/childbooks_7_12_years/matematichni-igri-dlya-rozumnih-ditey).
+
+Я.І. Перельман, [Жива математика](https://bohdan-books.com/catalog/book/130766/).
+
+Я.І. Перельман, [Захоплююча геометрія](https://bohdan-books.com/catalog/book/101856/).
+
+Я.І. Перельман, [Захоплююча алгебра](https://bohdan-books.com/catalog/book/101854/).
+
+К. Стюарт, [Квест STEM. Чудові числа і круті розрахунки](https://shop.talantbooks.com.ua/uk/catalog-ukr/navchaln-posbniki/kvest-stem/matematyka-chudovi-chysla-kruti-rozrahunky/). 
+
+Т. Янґ, К. Г’юветт, [Крута математика.](https://mybookshelf.com.ua/kruta-matematika-trejsi-yan-i-kejti-gyuvett/p2073)
 
 
 
