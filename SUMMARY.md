@@ -18,7 +18,7 @@
   * [Батькам дошкільнят](books/for-preschoolers-parents.md)
 * [Відео](video.md)
 * [Фільми](films.md)
-* [Математичні ігри](matematichni-igri.md)
+* [Математичні ігри](games.md)
 * [Різне](misc.md)
 * [Контакти](contacts.md)
 
