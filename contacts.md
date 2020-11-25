@@ -4,7 +4,7 @@
   
 [**Олена Ванєєва**](https://www.facebook.com/olena.vaneeva): любителька та колекціонерка книжок про математику,  працює в Інституті математики НАНУ, _vaneeva@gmail.com_
 
-\*\*\*\*[**Ірина Єгорченко**](https://www.facebook.com/irynayegorchenko): відома блогерка та популяризаторка математики,  працює в Інституті математики НАНУ, _iryna.ye@gmail.com_  
+\*\*\*\*[**Ірина Єгорченко**](https://www.facebook.com/irynayegorchenko): блогерка та популяризаторка математики,  працює в Інституті математики НАНУ, _iryna.ye@gmail.com_  
   
 [**Наталія Іванова**](https://www.facebook.com/nataliya.ivanova.1238):  викладачка математики в Європейському університеті Кіпру та дитячого он-лайн гуртка з математики, _ivanova.nataliya@gmail.com_  
   
