@@ -12,7 +12,7 @@ description: >-
 
 {% page-ref page="books/" %}
 
-{% page-ref page="video/" %}
+{% page-ref page="video.md" %}
 
 {% page-ref page="films.md" %}
 
