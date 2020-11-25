@@ -2,7 +2,6 @@
 
 Різні цікаві лінки
 
-* [Графічний калькулятор](https://www.desmos.com/calculator?lang=uk).
 * [Математичний олімпіадний рух України](https://matholymp.org.ua/).
 * Журнал "[У світі математики](http://probability.univ.kiev.ua/usm/)".
 * Н. Іванова. [Математичний календар](https://www.researchgate.net/project/Mathematical-Calendar) \(перелік важливих математичних дат і подій, англійською мовою\).
