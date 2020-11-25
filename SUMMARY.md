@@ -18,7 +18,6 @@
   * [Школярам](books/for-elementary-and-secondary-schools.md)
   * [Батькам дошкільнят](books/for-preschoolers-parents.md)
 * [Відео](video/README.md)
-  * [Канал Топ Школа](video/top-school.md)
   * [Банк лекцій "Університет у кишені"](video/uni-in-pocket.md)
 * [Фільми](films.md)
 * [Різне](misc.md)
