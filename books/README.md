@@ -6,5 +6,31 @@
 
 {% page-ref page="for-adults.md" %}
 
+{% page-ref page="recreational-math.md" %}
+
+{% page-ref page="math-history.md" %}
+
+{% page-ref page="philosophy.md" %}
+
+{% page-ref page="about-mathematicians.md" %}
+
+{% page-ref page="self-education.md" %}
+
+{% page-ref page="fiction-books.md" %}
+
+{% page-ref page="alternative.md" %}
+
+{% page-ref page="problem-books.md" %}
+
+{% page-ref page="gurtky.md" %}
+
+{% page-ref page="for-parents.md" %}
+
+{% page-ref page="knigi-dlya-pidlitkiv.md" %}
+
+{% page-ref page="for-elementary-and-secondary-schools.md" %}
+
+{% page-ref page="for-preschoolers-parents.md" %}
+
 
 
