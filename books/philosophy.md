@@ -1,9 +1,5 @@
 # Філософія математики
 
-А. Конфорович. Математичні софізми і парадокси. \([pdf](https://chtyvo.org.ua/authors/Konforovych_Andrii/Matematychni_sofizmy_i_paradoksy.pdf), [djvu](https://chtyvo.org.ua/authors/Konforovych_Andrii/Matematychni_sofizmy_i_paradoksy.djvu)\)
-
-
-
 Г_._  Вейль, Математическое мышление \(читати [он-лайн](https://www.mathedu.ru/text/veyl_matematicheskoe_myshlenie_1989/p0/)\).
 
 М.Громов, Кольцо тайн: вселенная, математика, мысль \([pdf](https://www.phantastike.com/math/koltso_tayn/pdf/)\).
